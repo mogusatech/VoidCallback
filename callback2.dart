@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+// https://docs.flutter.dev/development/ui/widgets-intro
 
 class Product {
   const Product({required this.name});
